@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinson Mai</h1>
-<h3 align="center">Chief Technology Officer</h3>
+<h3 align="center">Chief Technology Officer at LAMBDA</h3>
 
 - 🔭 I’m currently working at [VietMX](https://www.maixuanviet.com).
-- 🌱 I’m currently learning **C#** 
+- 🌱 Never stop learning because life never stops teaching.
 - 💬 Ask me about **Java, Python, Angular, ReactJS, Flutter**
 
 <h3 align="left">Connect with me:</h3>
