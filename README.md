@@ -34,7 +34,7 @@
       width="40"
     />
   </a>
-  <a href="https://instagram.com/vietmx" target="blank">
+  <a href="https://instagram.com/maixuanviet.vn" target="blank">
     <img
       align="center"
       src="asset/instagram.png"
