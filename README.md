@@ -10,7 +10,7 @@
   <a href="https://twitter.com/mxviet" target="blank">
     <img
       align="center"
-      src="asset/twitter.png.png"
+      src="asset/twitter.png"
       alt="waroi"
       height="40"
       width="40"
@@ -74,7 +74,7 @@
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img
-      src="figma.svg"
+      src="asset/figma.svg"
       alt="figma"
       width="40"
       height="40"
