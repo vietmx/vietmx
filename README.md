@@ -11,7 +11,7 @@
     <img
       align="center"
       src="asset/twitter.png"
-      alt="waroi"
+      alt="vietmx"
       height="40"
       width="40"
     />
@@ -20,7 +20,7 @@
     <img
       align="center"
       src="asset/linkein.png"
-      alt="waroi"
+      alt="vietmx"
       height="40"
       width="40"
     />
@@ -29,7 +29,7 @@
     <img
       align="center"
       src="asset/facebook.png"
-      alt="waroi"
+      alt="vietmx"
       height="40"
       width="40"
     />
@@ -38,15 +38,14 @@
     <img
       align="center"
       src="asset/instagram.png"
-      alt="waroi"
+      alt="vietmx"
       height="40"
       width="40"
     />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h5>Design Tools</h5>
+<h3>Design Tools</h3>
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank">
     <img
@@ -81,7 +80,7 @@
     />
   </a>
 </p>
-<h5>Front-end</h5>
+<h3>Front-end</h3>
 <p align="left">
   <a href="https://angular.io/" target="_blank">
     <img
@@ -107,9 +106,34 @@
       height="40"
     />
   </a>
+  <a href="https://svelteicons.dev/" target="_blank">
+    <img
+      src="asset/svelte.png"
+      alt="svelte"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
-<h5>Mobile</h5>
+
+<h3>Mobile</h3>
 <p align="left">
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img
+      src="asset/swift.png"
+      alt="swift"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.android.com/kotlin" target="_blank">
+    <img
+      src="asset/kotlin.png"
+      alt="kotlin"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://flutter.dev" target="_blank">
     <img
       src="asset/flutter.svg"
@@ -135,7 +159,7 @@
     />
   </a>
 </p>
-<h5>Databases</h5>
+<h3>Databases</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img
@@ -153,6 +177,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img
+      src="asset/postgreSQL.jpg"
+      alt="postgreSQL"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://mariadb.org/" target="_blank">
     <img
       src="asset/mariadb.png"
@@ -161,8 +193,16 @@
       height="40"
     />
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <img
+      src="asset/sqlServer.png"
+      alt="sqlServer"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
-<h5>Devops</h5>
+<h3>Devops</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img
@@ -205,7 +245,7 @@
     />
   </a>
 </p>
-<h5>Tools</h5>
+<h3>Tools</h3>
 <p align="left">
   <a href="https://postman.com" target="_blank">
     <img
@@ -227,6 +267,22 @@
     <img
       src="asset/vscode.png"
       alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.android.com/" target="_blank">
+    <img
+      src="asset/androidStudio.png"
+      alt="androidStudio"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.navicat.com/" target="_blank">
+    <img
+      src="asset/navicat.jpg"
+      alt="navicat"
       width="40"
       height="40"
     />
