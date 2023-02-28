@@ -5,45 +5,6 @@
 - 🌱 Never stop learning because life never stops teaching.
 - 💬 Ask me about **Java, Python, Angular, ReactJS, Flutter**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mxviet" target="blank">
-    <img
-      align="center"
-      src="asset/twitter.png"
-      alt="vietmx"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="https://linkedin.com/in/maixuanviet" target="blank">
-    <img
-      align="center"
-      src="asset/linkein.png"
-      alt="vietmx"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="https://facebook.com/mxviet" target="blank">
-    <img
-      align="center"
-      src="asset/facebook.png"
-      alt="vietmx"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="https://instagram.com/maixuanviet.vn" target="blank">
-    <img
-      align="center"
-      src="asset/instagram.png"
-      alt="vietmx"
-      height="40"
-      width="40"
-    />
-  </a>
-</p>
 
 <h3>Design Tools</h3>
 <p align="left">
