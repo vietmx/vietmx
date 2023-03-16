@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinson Mai</h1>
-<h3 align="center">Chief Technology Officer at CT GROUP</h3>
+<h3 align="center">Founder of [LTTK Education](https://www.luyenthithukhoa.vn) - [CrypticRobo](https://www.crypticrobo.com) - [MRPXpert](https://www.mrpxpert.com)</h3>
 
 - 🔭 I’m currently working at [VietMX](https://www.maixuanviet.com).
 - 🌱 I'm the founder of [LTTK Education](https://www.luyenthithukhoa.vn) - [CrypticRobo](https://www.crypticrobo.com) - [MRPXpert](https://www.mrpxpert.com)
