@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinson Mai</h1>
-<h3 align="center">Founder of <a href="https://www.luyenthithukhoa.vn" target="_blank">LTTK Education</a> - <a href="https://www.crypticrobo.com" target="_blank">CrypticRobo</a> - <a href="https://www.mrpxpert.com" target="_blank">MRPXpert</a></h3>
 
 - 🔭 I’m currently working at [VietMX](https://www.maixuanviet.com).
-- 🌱 I'm the founder of [LTTK Education](https://www.luyenthithukhoa.vn) - [CrypticRobo](https://www.crypticrobo.com) - [MRPXpert](https://www.mrpxpert.com)
 - 🌱 Never stop learning because life never stops teaching.
 - 💬 Ask me about **Java, Python, Angular, ReactJS, Flutter**
 
