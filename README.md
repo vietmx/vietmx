@@ -40,6 +40,7 @@
     />
   </a>
 </p>
+
 <h3>Front-end</h3>
 <p align="left">
   <a href="https://angular.io/" target="_blank">
@@ -119,6 +120,43 @@
     />
   </a>
 </p>
+
+<h3>Back-end</h3>
+<p align="left">
+  <a href="https://www.java.com/" target="_blank">
+    <img
+      src="asset/java.webp"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img
+      src="asset/python.png"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img
+      src="asset/golang.png"
+      alt="golang"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img
+      src="asset/nodejs.png"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
 <h3>Databases</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
